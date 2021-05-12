@@ -14,3 +14,5 @@ Include the files used
 bikeShare.py
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+###
+This project is very interesting but can be a bit hard without proper guidance.
