@@ -1,3 +1,4 @@
+# Bikeshare data project that showcase three cities in US
 import numpy as np
 import pandas as pd
 import time
