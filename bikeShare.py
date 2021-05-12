@@ -1,3 +1,6 @@
+# Bikeshare data project that showcase three cities in US
+# The project indicate the time in months and days
+# The project display 5 rows data of individual trip data if requested
 import numpy as np
 import pandas as pd
 import time
